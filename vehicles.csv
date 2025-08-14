@@ -1,0 +1,21 @@
+vehicle_id,type,make,model,year,daily_rate,image_path,is_available
+1,Car,Toyota,Corolla,2020,4000,images/car.jpg,FALSE
+2,Van,Honda,Odyssey,2018,6000,images/van.jpg,TRUE
+3,Bike,Harley-Davidson,Iron 883,2022,2500,images/bike.jpg,FALSE
+4,Car,Mercedes-Benz,C-Class,2023,4500,images/car.jpg,FALSE
+5,SUV,BMW,X5,2021,5500,images/suv.jpg,FALSE
+6,Electric Car,Tesla,Model 3,2024,5250,images/tesla.jpg,FALSE
+7,Car,Ford,Mustang,2022,4500,images/car.jpg,FALSE
+8,Truck,Chevrolet,Silverado,2020,8000,images/truck.jpg,FALSE
+9,Van,Mercedes-Benz,Sprinter,2019,6000,images/van.jpg,FALSE
+10,SUV,Audi,Q7,2023,5500,images/suv.jpg,FALSE
+11,Bike,Harley-Davidson,Iron 883,2022,2500,images/bike.jpg,FALSE
+12,Electric Car,Tesla,Model 3,2024,5250,images/tesla.jpg,FALSE
+13,Truck,Chevrolet,Silverado,2020,8000,images/truck.jpg,FALSE
+14,Bike,Harley-Davidson,Iron 883,2022,2500,images/bike.jpg,FALSE
+15,Truck,Chevrolet,Silverado,2020,8000,images/truck.jpg,FALSE
+16,Bike,Harley-Davidson,Iron 883,2022,2500,images/bike.jpg,FALSE
+17,Electric Car,Tesla,Model 3,2024,5250,images/tesla.jpg,FALSE
+18,Van,Honda,Odyssey,2018,6000,images/van.jpg,FALSE
+19,SUV,Audi,Q7,2023,5500,images/suv.jpg,FALSE
+20,Bike,Harley-Davidson,Iron 883,2022,2500,images/bike.jpg,FALSE
